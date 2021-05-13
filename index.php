@@ -12,6 +12,15 @@
         width: 100%;
         height: 400px;
     }
+    .divyellow{
+
+        background-color: yellow;
+        border: solid 1px;
+        border-color: black;
+        width: 100%;
+        height: 400px;
+
+    }
     </style>
 </head>
 <body>
@@ -21,7 +30,7 @@
 
 </div>
 
-<div>
+<div class="divyellow">
 
 </div>
     
