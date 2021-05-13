@@ -21,6 +21,15 @@
         height: 400px;
 
     }
+    .divpink{
+
+        background-color: pink;
+        border: solid 1px;
+        border-color: black;
+        width: 100%;
+        height: 400px;
+
+        }
     </style>
 </head>
 <body>
@@ -31,6 +40,10 @@
 </div>
 
 <div class="divyellow">
+
+</div>
+
+<div class="divpink">
 
 </div>
     
