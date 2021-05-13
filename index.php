@@ -44,7 +44,9 @@
 </div>
 
 <div class="divpink">
-
+        <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto magni assumenda est excepturi possimus, quia, repellat iure suscipit fuga atque eaque pariatur. Ab maxime molestiae ratione quia voluptas inventore consectetur.
+        </p>
 </div>
     
 </body>
