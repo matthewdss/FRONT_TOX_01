@@ -21,6 +21,15 @@
         height: 400px;
 
     }
+    .divred
+    {
+        background-color: red;
+        border: solid 1px;
+        border-color: black;
+        width: 100%;
+        height: 400px;
+
+    }
     .divpink{
 
         background-color: pink;
@@ -39,7 +48,7 @@
 
 </div>
 
-<div class="divyellow">
+<div class="divred">
 
 </div>
 
